@@ -1,0 +1,21 @@
+Hello Khiem Ton That,
+
+A new version of the Machine Learning course is launching on July, 6, 2021. This new version will include stability improvements to programming assignment features from Coursera.
+
+As part of this version launch, we will be transitioning all learners to the new version. Here’s a summary of what you can expect:
+
+When you log into the course after the new course version launches, you will see a Deprecated Item where the Programming Assignments are. This is a placeholder item that will include instructions for switching to the new version.
+
+Then, when you switch to the new version, you’ll be able to make progress on your Programming Assignments again. 
+
+Your deadlines will reset as a result of the new version, but rest assured you will not be penalized and you can continue to reset your deadlines and learn at your own pace.
+
+To make new submissions to Programming Assignments in the new course version, you will need to download updated submission scripts. They will be available to you in the instructions for each Programming Assignment. If you use the submission code from the old version, you will not be able to make new submissions. Not much else will change about your submission experience. You will still be able to see your per-part feedback on the submissions page, for any new submissions you make.
+
+All of your course grades will carry over from the previous version, as shown on the Grades page. Any prior programming assignment submission history will not show directly on the assignment page, but you will see your highest grade on the Grades page.
+
+There are no content changes in the new course version, so the instructional material and content of the assessments are the same as the prior version.
+
+Thank you for your collaboration, and happy learning!
+
+Stanford Machine Learning team
